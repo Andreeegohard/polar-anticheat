@@ -7,7 +7,7 @@ Fivem Anticheat, Javascript based, updating every week.
 2) Set the webhook into the config
 3) Insert into the server.cfg:
 
-add_ace group.admin anticheat.bypass allow
-add_principal identifier.steam:STEAMHEX group.admin
+- add_ace group.admin anticheat.bypass allow
+- add_principal identifier.steam:STEAMHEX group.admin
 
 4) You are done.
